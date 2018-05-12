@@ -1,0 +1,26 @@
+_repo: Poems_43615
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43615-h/images/poems_cover.jpg
+creator:
+  author:
+    agent_name: Manning, Frederic
+    birthdate: 1882
+    deathdate: 1935
+    gutenberg_agent_id: '37355'
+    url: http://www.gutenberg.org/2009/agents/37355
+description: ''
+gutenberg_issued: '2013-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43615'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: Poems
+url: http://www.gutenberg.org/ebooks/43615
